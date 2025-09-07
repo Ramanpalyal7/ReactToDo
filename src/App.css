@@ -1,0 +1,29 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 18px 12px;
+}
+.my-input {
+  text-align: start;
+  border-radius: 3px;
+  border: 2px solid rgb(67, 67, 67);
+  width: 100%;
+}
+.my-button {
+  min-width: 6em;
+  min-height: 2em;
+}
+.container {
+  margin-bottom: 16px;
+  text-align: center;
+}
+h2 {
+  text-align: start;
+}
+.box {
+  border: 2px solid rgb(250, 214, 167);
+  background: linear-gradient(to right, #ffff5b, rgb(255, 175, 27));
+}
